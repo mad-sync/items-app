@@ -1,0 +1,14 @@
+/* Example styles for ItemList */
+.item-list {
+    padding: 20px;
+  }
+  
+  .item-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item-list li {
+    margin-bottom: 10px;
+  }
+  
